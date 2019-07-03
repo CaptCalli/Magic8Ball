@@ -5,6 +5,7 @@ Magic8Ball is a project emulating a Magic 8 Ball experience.
 # Description
 
 Magic8Ball is a small private project which allows asking a question and receiving a random answer. 
+[Magic8Ball Site](https://kernscode.github.io/Magic8Ball/)
 
 # Usage
 

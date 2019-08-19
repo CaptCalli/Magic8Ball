@@ -15,7 +15,7 @@ If no question is answered, upon clicking the Ask! button, a thick red border wi
 
 # Support
 
-For support, feel free to contact me on Twitter: @KittyKerns 
+For support, feel free to contact me on Twitter: @_KittyKerns 
 
 # License
 
